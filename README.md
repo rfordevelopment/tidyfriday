@@ -2,6 +2,8 @@
 
 ## A biweekly social data project in R
 
+===
+
 # Useful links
 
 | Link | Description |
