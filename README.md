@@ -2,11 +2,7 @@
 
 ## A biweekly social data project in R
 
-***
-
 Intro here: To complete
-
-***
 
 # Datasets
 
@@ -55,3 +51,6 @@ Only books available freely online are sourced here. Feel free to add to the lis
 | [:link:](https://socviz.co/index.html#preface) | Data Visualization by Kieran Healy |
 | [:link:](http://www.cookbook-r.com/Graphs/) | `ggplot2` cookbook by Winston Chang |
  [:link:](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535) | BBC Data Journalism team |
+ 
+## Submitting Datasets
+Want to submit an interesting dataset? Please open an [Issue](https://github.com/rfordatascience/tidytuesday/issues) and post a link to the article (or blogpost, etc) using the data, then we can discuss adding it to a future TidyTuesday Event!
