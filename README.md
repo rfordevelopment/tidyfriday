@@ -2,7 +2,15 @@
 
 ## A biweekly social data project in R
 
-====
+***
+
+Intro here: To complete
+
+***
+
+# Datasets
+
+Table here: To complete
 
 # Useful links
 
