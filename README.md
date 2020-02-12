@@ -38,7 +38,7 @@ Below there are some notes that come from the Tidy Tuesday project that we think
 
 We also encourage you to bring your dataset related to development economics. If you want to share an interesting dataset, please open an [Issue](https://github.com/rfordevelopment/tidyfriday/issues) and post a link to the article using the data.
 
-# Datasets
+## Datasets
 
 | Week | Date | Data | Source | Article
 | :---: | :---: | :--- | :--- | :---|
