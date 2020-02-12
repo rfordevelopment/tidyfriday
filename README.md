@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="static/r4devlogo.png">
+<img width="300" height="300" src="static/r4devlogo.png">
 </p>
 
 ## A biweekly social data project in R
@@ -22,7 +22,7 @@ Following the spirit of the `Tidy Tuesday` project, we will post a raw dataset f
 
 The datasets will be posted on the datasets page on Friday.
 
-Below there are some notes that come from the Tidy Tuesday project that we think are important to take into account.
+Below there are some notes that come from the Tidy Tuesday project that we think are important to consider when taking part of this project:
  
 > 1. The data set comes from the source article or the source that the article credits. Be mindful that the data is what it is and Tidy Tuesday is designed to help you practice data visualization and basic data wrangling in R.
 > 2. Again, the data is what it is! You are welcome to explore beyond the provided dataset, but the data is provided as a "toy" dataset to practice techniques on.
@@ -34,9 +34,15 @@ Below there are some notes that come from the Tidy Tuesday project that we think
 > 8. Focus on improving your craft, even if you end up with something simple!
 > 9.  Give credit to the original data source whenever possible.
 
+## Submitting Datasets
+
+We also encourage you to bring your dataset related to development economics. If you want to share an interesting dataset, please open an [Issue](https://github.com/rfordevelopment/tidyfriday/issues) and post a link to the article using the data.
+
 # Datasets
 
-Table here: To complete
+| Week | Date | Data | Source | Article
+| :---: | :---: | :--- | :--- | :---|
+| 1 | `2020-02-20` | | | |
 
 ## Useful links
 
@@ -54,6 +60,8 @@ Table here: To complete
 
 ## Useful data sources
 
+The Tidy Tuesday project compiled a list of very useful resources from data management to data visualization. We will be adding more links as we continue finding resources.
+
 | Link | Description |
 | --- | --- |
 | [:link:](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) | Data is Plural collection |
@@ -68,8 +76,6 @@ Table here: To complete
 
 ## Data Viz/Science Books
 
-Only books available freely online are sourced here. Feel free to add to the list
-
 | Link | Description |
 | --- | --- |
 | [:link:](https://serialmentor.com/dataviz/) | Fundamentals of Data Viz by Claus Wilke |
@@ -79,6 +85,3 @@ Only books available freely online are sourced here. Feel free to add to the lis
 | [:link:](https://socviz.co/index.html#preface) | Data Visualization by Kieran Healy |
 | [:link:](http://www.cookbook-r.com/Graphs/) | `ggplot2` cookbook by Winston Chang |
  [:link:](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535) | BBC Data Journalism team |
-
-## Submitting Datasets
-Want to submit an interesting dataset? Please open an [Issue](https://github.com/rfordatascience/tidytuesday/issues) and post a link to the article (or blogpost, etc) using the data, then we can discuss adding it to a future TidyTuesday Event!
