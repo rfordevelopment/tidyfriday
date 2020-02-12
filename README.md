@@ -1,8 +1,24 @@
-![](static/r4devlogo.png)
+<p align="center"> 
+<img src="static/r4devlogo.png">
+</p>
 
 ## A biweekly social data project in R
 
-Intro here: To complete
+This is a project inspired by the [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) project by the R for Data Science Community. Tidy Friday was promoted by part of the research assistants of the World Bank's [Development Impact Evaluation Unit](https://www.worldbank.org/en/research/dime) with the purpose to bring datasets related to development economics to the tidyverse.
+
+The general idea is to `wrangle` data and `plot` figures emphasizing topics such as:
+
+* Education
+* Health
+* Demographic change
+* Food and agriculture
+* Violence
+* Democracy
+* Human Rights
+* Poverty and economic development
+* Environment
+
+Following the spirit of the `Tidy Tuesday` project, we will post a raw dataset, in a not tidy way, fortnightly, including the article or information related to the dataset, and ask you to explore it and come with creative ways and best practices to visualize the data. Therefore, the goal is to apply your R skills, get feedbacks, see what other people did, and connect with more people. We encourage you to post your work on twitter using the hastags `#TidyFriday` and `#RStats`.
 
 # Datasets
 
