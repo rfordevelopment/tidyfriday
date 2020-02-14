@@ -74,6 +74,13 @@ The Tidy Tuesday project compiled a list of very useful resources from data mana
 | [:link:](https://github.com/datadesk) | The LA Times Data Desk |
 | [:link:](https://github.com/OpenNewsLabs/news-graphics-team) | Open News Labs |
 | [:link:](https://t.co/BMvJO2dT1o) | BBC Data Journalism team |
+| [:link:](https://github.com/vincentarelbundock/WDI) | World Bank Development Indicators (R Package) |
+| [:link:](https://dataverse.harvard.edu/) | Harvard Dataverse |
+| [:link:](https://ipums.org/) | IPUMS |
+| [:link:](http://ghdx.healthdata.org/) | Global Health Data Exchange |
+| [:link:](https://ourworldindata.org/) | Our World in Data |
+| [:link:](https://ucdp.uu.se/) | Uppsala Conflict Data Program |
+| [:link:](http://www.systemicpeace.org/inscrdata.html) | Polity Project: Political Regime Characteristics and Transitions |
 
 ## Data Viz/Science Books
 
@@ -84,5 +91,7 @@ The Tidy Tuesday project compiled a list of very useful resources from data mana
 | [:link:](https://www.tidytextmining.com/) | Tidy Text Mining by Julia Silge & David Robinson |
 | [:link:](https://geocompr.robinlovelace.net/) | Geocomputation with R by Robin Lovelace, Jakub Nowosad, Jannes Muenchow |
 | [:link:](https://socviz.co/index.html#preface) | Data Visualization by Kieran Healy |
-| [:link:](http://www.cookbook-r.com/Graphs/) | `ggplot2` cookbook by Winston Chang |
+| [:link:](http://www.cookbook-r.com/Graphs/) | `ggplot2` Cookbook for R by Winston Chang |
  [:link:](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535) | BBC Data Journalism team |
+| [:link:](https://plotly-r.com/) | Interactive web-based data visualization with R, plotly, and shiny by Carson Sievert |
+| [:link:](https://style.tidyverse.org/) | The Tidyverse Style Guide by Hadley Wickham |
