@@ -14,6 +14,7 @@ The general idea is to `wrangle` data and `plot` figures emphasizing topics such
 * Food and agriculture
 * Violence
 * Democracy
+* Corruption
 * Human Rights
 * Poverty and economic development
 * Environment
