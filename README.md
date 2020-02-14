@@ -1,5 +1,5 @@
 <p align="center"> 
-<img width="300" height="300" src="static/r4devlogo.png">
+<img width="300" height="300" src="static/r4devlogo2.png">
 </p>
 
 ## A biweekly social data project in R
