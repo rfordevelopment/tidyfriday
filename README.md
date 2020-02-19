@@ -58,6 +58,7 @@ We also encourage you to bring your dataset related to development economics. If
 | [:link:](https://guides.github.com/activities/hello-world/) | Basics of GitHub |
 | [:link:](https://happygitwithr.com/) | Learn how to use GitHub with R |
 | [:link:](http://ggplot2.tidyverse.org/reference/ggsave.html) | Save high-rez `ggplot2` images |
+| [:link:](https://nsgrantham.shinyapps.io/tidytuesdayrocks/) | Tidy Tuesday Shiny App |
 
 ## Useful data sources
 
